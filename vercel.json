@@ -1,27 +1,10 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "app.py",
-      "use": "@vercel/python"
+  "functions": {
+    "api/index.py": {
+      "runtime": "python3.9"
     },
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
+    "api/analyze.py": {
+      "runtime": "python3.9"
     }
-  ],
-  "routes": [
-    {
-      "src": "/analyze",
-      "dest": "app.py"
-    },
-    {
-      "src": "/health",
-      "dest": "app.py"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "index.html"
-    }
-  ]
+  }
 }
