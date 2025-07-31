@@ -2,6 +2,8 @@
 
 This repository implements a research prototype for a next-generation multimodal AI collaborator. It integrates natural language, visual, and code reasoning with interpretable outputs and plugin-based customization. Designed for scientific co-thinking tasks.
 
+**Release Timeline:** Full model and benchmark suite planned for Q4 2025, with evaluation tools available Q3 2025.
+
 ## 🚀 Quickstart
 
 ```bash

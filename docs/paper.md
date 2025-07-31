@@ -1,6 +1,8 @@
 # Interpretable Multimodal Thought-Partner AI Research Paper
 
 > Abstract placeholder - This paper presents a novel approach to multimodal AI reasoning with interpretable outputs and plugin-based customization for scientific collaboration.
+> 
+> **Expected Publication:** Q4 2025
 
 > 1. Introduction
 > The need for interpretable AI systems that can serve as effective thought partners in scientific research...
