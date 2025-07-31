@@ -12,7 +12,7 @@ Our goal is to develop an AI system that does not simply produce answers but eng
 
 ## 2. Related Work
 
-- Chain-of-thought prompting and interpretability (Wei et al., 2022)
+- Chain-of-thought prompting and interpretability (Wei et al., 2025)
 - Symbolic reasoning + LLM hybrids (e.g. Toolformer, ReAct, DSPy)
 - Scientific collaboration datasets (e.g., SciBench, ARC-Challenge)
 - Multimodal LLMs (GPT-4V, Kosmos, Flamingo)
@@ -52,8 +52,8 @@ While powerful, this system requires strong safety guardrails to avoid harmful p
 
 ## 7. Open Science Commitment
 
-- Model weights and training data are published on HuggingFace
-- Evaluation benchmarks and thought trace visualizers open-sourced
+- Model weights and training data published on HuggingFace (Q4 2025)
+- Evaluation benchmarks and thought trace visualizers open-sourced (Q3 2025)
 - Call for collaborators via GitHub and forums
 
 ## 8. Conclusion
